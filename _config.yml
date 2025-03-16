@@ -1,9 +1,9 @@
-title: Holiday Giftinator
-description: "Holiday"
-owner_name: Vibha, Soni, Nora, Spencer, Kushi
-github_username: nighthawkcoders
-github_repo: "holiday_frontend" 
-baseurl: "/holiday_frontend"
+title: Pilot City Project
+description: "Dexcom Interactive Game"
+owner_name: Maryam, Aditi, Collin, Anyi, Shriya, Vibha
+github_username: shriya1401
+github_repo: "pilot_city_frontend" 
+baseurl: "/pilot_city_frontend"
 future: true
 remote_theme: jekyll/minima
 minima:
